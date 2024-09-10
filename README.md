@@ -1,4 +1,4 @@
-# Update README.md (Change title)
+# Change the title again for this Readme file 
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
