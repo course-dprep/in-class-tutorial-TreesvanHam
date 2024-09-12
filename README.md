@@ -1,10 +1,9 @@
 <<<<<<< HEAD
 # Change the title of readme for the second time for rewachting the tutorial
 ## making a second change to get this right 
+### third change
 =======
 
-# Change the title of readme for the second time 
->>>>>>> 08357c7af9dff748fc9114c0c2921c173202a707
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
